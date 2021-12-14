@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @frazierc3
-- 👀 I’m interested in ... Automation, AI
+- 👀 I’m interested in ... too many things
 - 🌱 I’m currently learning ... React, Django
 
 <!---
